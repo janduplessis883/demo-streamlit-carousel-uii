@@ -69,6 +69,8 @@ with st.expander("About this demo", icon=":material/favorite:"):
         uui_carousel(items=slides, variant="md")
         
         ```
-        ![Pypi]("images/pypi.png) Install via PyPi
+        :material/download: [Install via **PyPi**](https://pypi.org/project/streamlit-carousel-uui/)  
+        :material/code: [View source on **GitHub**](https://github.com/janduplessis883/streamlit_carousel_uui)  
+        :material/star: **janduplessis883** on GitHub if you like this component!
         """
     )
