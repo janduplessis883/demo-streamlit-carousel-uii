@@ -2,12 +2,12 @@
 font="Inter:https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap"
 
 base="light"
-primaryColor="#43648b"
+primaryColor="#171717"
 backgroundColor="#ffffff"
 secondaryBackgroundColor="#ededed"
-textColor="#374151"
+textColor="#525252"
 baseRadius="medium"
-codeBackgroundColor="#ededed"
+codeBackgroundColor="#f5f5f5"
 codeTextColor="#ae4f4d"
 
 redColor = "#ae4f4d"
@@ -20,8 +20,8 @@ grayColor = "#a3a3a3"
 
 
 [theme.sidebar]
-primaryColor="#659bb7"
-backgroundColor="#4D5F6C"
-secondaryBackgroundColor="#7A8691"
-textColor="#D2D6DA"
+primaryColor="#262626"
+backgroundColor="#e5e5e5"
+secondaryBackgroundColor="#f5f5f5"
+textColor="#a3a3a3"
 baseRadius="medium"
